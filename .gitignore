@@ -1,0 +1,4 @@
+./node_modules
+/env
+/db/dbconf.yml
+npm-debug.log
